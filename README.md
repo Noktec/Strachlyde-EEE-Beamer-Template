@@ -1,7 +1,7 @@
 ##Unofficial Bearmer Template for Strathclyde University of Glasgow##
 
+Keep the .sty file at the root of the folder. 
 
-Put it into your `TEXINPUTS` path, then use the following to utilize it in your
 latex-beamer code:
 
     \documentclass{beamer}
