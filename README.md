@@ -7,9 +7,11 @@ latex-beamer code:
     \documentclass{beamer}
     \usetheme{STR}
 
-## Options ##
+## Informations ##
 
 Defaults are 4:3 ratio.
+
+If you notice any bugs however, contact me, and I shall do my best to fix them. Of course, any contributions are also welcome.
 
 ## Layout ##
 
