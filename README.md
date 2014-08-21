@@ -11,7 +11,7 @@ latex-beamer code:
 
 Defaults are 4:3 ratio.
 
-If you notice any bugs however, contact me, and I shall do my best to fix them. Of course, any contributions are also welcome.
+If you notice any bugs, contact me, and I shall do my best to fix them. Of course, any contributions are also welcome.
 
 ## Layout ##
 
