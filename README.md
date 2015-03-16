@@ -15,7 +15,7 @@ If you notice any bugs, contact me, and I shall do my best to fix them. Of cours
 
 ## Layout ##
 
-![alt text]( https://raw.githubusercontent.com/Noktec/Strachlyde-EEE-Beamer-Template/master/template.png "Template")
+![Template Image]( https://raw.githubusercontent.com/Noktec/Strachlyde-EEE-Beamer-Template/master/template.png "Template")
 
 ## Comments ##
-The theme is based on ![alt text](https://github.com/satta/zbh-beamer-theme) "the following template")
+The theme is based on [the following template](https://github.com/satta/zbh-beamer-theme)
