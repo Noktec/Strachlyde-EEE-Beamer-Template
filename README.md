@@ -1,4 +1,4 @@
-##Unofficial Bearmer Template for Strathclyde University of Glasgow##
+##Unofficial Bearmer Template for the University of Strathclyde Glasgow##
 
 Keep the .sty file at the root of the folder. 
 
@@ -16,3 +16,6 @@ If you notice any bugs, contact me, and I shall do my best to fix them. Of cours
 ## Layout ##
 
 ![alt text]( https://raw.githubusercontent.com/Noktec/Strachlyde-EEE-Beamer-Template/master/template.png "Template")
+
+## Comments ##
+The theme is based on ![alt text](https://github.com/satta/zbh-beamer-theme) "the following template")
