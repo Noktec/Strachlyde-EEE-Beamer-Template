@@ -21,7 +21,7 @@ If you notice any bugs, contact me, and I shall do my best to fix them. Of cours
 ![Template Image]( https://raw.githubusercontent.com/Noktec/Strachlyde-EEE-Beamer-Template/master/EEE/template.png "TemplateEEE")
 
 
-![Template Image]( https://raw.githubusercontent.com/Noktec/Strachlyde-EEE-Beamer-Template/master/IFC/IFC_Template.png "TemplateIFC")
+![Template Image]( https://raw.githubusercontent.com/Noktec/Strachlyde-EEE-Beamer-Template/master/IFC/IFCTemplate.png "TemplateIFC")
 
 
 
