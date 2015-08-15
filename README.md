@@ -1,5 +1,8 @@
 ##Unofficial Bearmer Template for the University of Strathclyde Glasgow##
 
+- Template for the EEE department 
+- Template for the Institute for Future Cities
+
 Keep the .sty file at the root of the folder. 
 
 latex-beamer code:
@@ -16,6 +19,7 @@ If you notice any bugs, contact me, and I shall do my best to fix them. Of cours
 ## Layout ##
 
 ![Template Image]( https://raw.githubusercontent.com/Noktec/Strachlyde-EEE-Beamer-Template/master/template.png "Template")
+
 
 ## Comments ##
 The theme is based on [the following template](https://github.com/satta/zbh-beamer-theme)
