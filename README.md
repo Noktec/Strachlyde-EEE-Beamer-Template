@@ -1,7 +1,8 @@
 ##Unofficial Bearmer Template for the University of Strathclyde Glasgow##
 
 - Template for the EEE department 
-- Template for the Institute for Future Cities
+- Template for the Institute for Future Cities 
+- Template for MAE / Weir Advanced Research Centre (note: please compile with PDFLaTeX)
 
 Keep the .sty file at the root of the folder. 
 
@@ -24,6 +25,7 @@ If you notice any bugs, contact me, and I shall do my best to fix them. Of cours
 ![Template Image]( https://raw.githubusercontent.com/Noktec/Strachlyde-EEE-Beamer-Template/master/IFC/IFCTemplate.png "TemplateIFC")
 
 
+![Template Image]( https://raw.githubusercontent.com/Noktec/Strachlyde-EEE-Beamer-Template/master/MAE/MAETemplate.png "MAETemplate")
 
 ## Comments ##
 The theme is based on [the following template](https://github.com/satta/zbh-beamer-theme)
