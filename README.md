@@ -25,7 +25,7 @@ If you notice any bugs, contact me, and I shall do my best to fix them. Of cours
 ![Template Image]( https://raw.githubusercontent.com/Noktec/Strachlyde-EEE-Beamer-Template/master/IFC/IFCTemplate.png "TemplateIFC")
 
 
-![Template Image]( https://raw.githubusercontent.com/Noktec/Strachlyde-EEE-Beamer-Template/master/MAE/MAETemplate.png "MAETemplate")
+![Template Image]( https://github.com/nadiiia/Strachlyde-EEE-Beamer-Template/blob/master/MAE/MAETemplate.png "MAETemplate")
 
 ## Comments ##
 The theme is based on [the following template](https://github.com/satta/zbh-beamer-theme)
